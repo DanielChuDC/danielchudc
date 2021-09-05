@@ -12,7 +12,7 @@
 -->
 
 
-<img width="450" align='left' alt="Screenshot 2021-09-05 at 9 09 52 AM" src="https://user-images.githubusercontent.com/52316624/132111719-cbe0052b-70e6-468c-ac7e-3d9e8117abf9.png">
+<img width="250" align='left' alt="hacktoberfest 2020" src="https://user-images.githubusercontent.com/52316624/132111719-cbe0052b-70e6-468c-ac7e-3d9e8117abf9.png">
 
 I love open source and I love to share my knowledge as I come across issues that people might struggle with. So I joined hacktoberfest 2020 and contributed to [Asyncapi](https://www.asyncapi.com) . See you in hacktoberfest 2021! 
 
