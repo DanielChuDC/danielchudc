@@ -14,13 +14,16 @@
 
 <img width="250" align='left' alt="hacktoberfest 2020" src="https://user-images.githubusercontent.com/52316624/132111719-cbe0052b-70e6-468c-ac7e-3d9e8117abf9.png">
 
-I love open source and I love to share my knowledge as I come across issues that people might struggle with. So I joined hacktoberfest 2020 and contributed to [Asyncapi](https://www.asyncapi.com) . See you in hacktoberfest 2021! 
+I love open source and I love to share my knowledge as I come across issues that people might struggle with. So I joined hacktoberfest 2020 and contributed to [Asyncapi](https://www.asyncapi.com).
 
+See you in hacktoberfest 2021! 
 
+<br>
 
 ## &#x270d; Blog & Writing
 
 Apart from coding, I maintain a blog where you can find my articles on [Medium](https://daniel-dc.medium.com).
+
 
 
 
@@ -38,6 +41,7 @@ Apart from coding, I maintain a blog where you can find my articles on [Medium](
 ![](https://img.shields.io/badge/Tools-Docker-informational?style=flat&logo=docker&logoColor=white&color=2bbc8a)
 ![](https://img.shields.io/badge/Tools-Kubernetes-informational?style=flat&logo=kubernetes&logoColor=white&color=2bbc8a)
 ![](https://img.shields.io/badge/Cloud-GoogleCloud-informational?style=flat&logo=googlecloud&logoColor=white&color=2bbc8a)
+
 
 
 [![Danielchudc's GitHub stats](https://github-readme-stats.vercel.app/api?username=danielchudc&show_icons=true&count_private=true&theme=radical)](https://github.com/danielchudc/github-readme-stats)
