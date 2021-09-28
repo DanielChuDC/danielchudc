@@ -22,7 +22,7 @@ See you in hacktoberfest 2021!
 
 ## &#x270d; Blog & Writing
 
-Apart from coding, I maintain a blog where you can find my articles on [Medium](https://daniel-dc.medium.com).
+Apart from coding, I maintain a blog where you can find my articles on [Medium](https://dc1888.medium.com).
 
 
 
