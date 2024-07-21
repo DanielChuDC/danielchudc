@@ -41,7 +41,7 @@ Apart from coding, I maintain a blog where you can find my articles on [Medium](
 
 
 
-[![Danielchudc's GitHub stats](https://github-readme-stats-one-azure-64.vercel.app/api?username=danielchudc&show_icons=true&count_private=true&theme=radical)](https://github.com/DanielChuDC/forked-github-readme-stats)
+[![Danielchudc's GitHub stats]([https://github-readme-stats-one-azure-64.vercel.app](https://github-readme-stats-for-myself.vercel.app/api?username=danielchudc&show_icons=true&count_private=true&theme=radical)](https://github.com/DanielChuDC/forked-github-readme-stats)
 
 [![Top Langs](https://github-readme-stats-one-azure-64.vercel.app/api/top-langs/?username=danielchudc&layout=compact)](https://github.com/DanielChuDC/forked-github-readme-stats)
 
